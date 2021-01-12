@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_58872_needit.onDemandService</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description>reużywalna funkcja. jak chcesz zrobić onDemand, trzeaba zastapic domyślny template w script. </description>
+        <name>onDemandService</name>
+        <script><![CDATA[// var onDemandService = Class.create();
+// onDemandService.prototype = {
+//     initialize: function() {
+//     },
+
+//     type: 'onDemandService'
+// };
+
+function onDemandFunction(){
+	gs.info('to jest on demand funciton');
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-12 10:57:50</sys_created_on>
+        <sys_id>49a597d72fe5a010b38259a72799b694</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>onDemandService</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_script_include_49a597d72fe5a010b38259a72799b694</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-12 10:57:50</sys_updated_on>
+    </sys_script_include>
+</record_update>
