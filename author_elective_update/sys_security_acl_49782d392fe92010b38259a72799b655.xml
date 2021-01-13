@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>false</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_58872_needit_needit&#13;
+</description>
+        <name>x_58872_needit_needit</name>
+        <operation display_value="read">read</operation>
+        <script><![CDATA[current.isNewRecord();]]></script>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-07 11:00:41</sys_created_on>
+        <sys_id>49782d392fe92010b38259a72799b655</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>x_58872_needit_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_security_acl_49782d392fe92010b38259a72799b655</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 09:02:16</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d69939cadba5cc1007072f17d49619e2</instance_id>
+        <instance_name>dev95843</instance_name>
+        <name>sys_security_acl_49782d392fe92010b38259a72799b655</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_security_acl"&gt;&lt;sys_security_acl action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;admin_overrides&gt;true&lt;/admin_overrides&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;condition/&gt;&lt;description&gt;Default access control on x_58872_needit_needit&amp;#13;
+&lt;/description&gt;&lt;name&gt;x_58872_needit_needit&lt;/name&gt;&lt;operation display_value="read"&gt;read&lt;/operation&gt;&lt;script&gt;&lt;![CDATA[current.isNewRecord();]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_security_acl&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-01-07 11:00:41&lt;/sys_created_on&gt;&lt;sys_id&gt;49782d392fe92010b38259a72799b655&lt;/sys_id&gt;&lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_58872_needit_needit&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_security_acl_49782d392fe92010b38259a72799b655&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-01-13 09:02:16&lt;/sys_updated_on&gt;&lt;type display_value="record"&gt;record&lt;/type&gt;&lt;/sys_security_acl&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1463358927</payload_hash>
+        <record_name>x_58872_needit_needit</record_name>
+        <reverted_from/>
+        <source>e1b5d9b92fa92010b38259a72799b609</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 09:02:16</sys_created_on>
+        <sys_id>4de64c3b2fe1e010b38259a72799b683</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176fafb37500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 09:02:16</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>85e64c3b89e1e010316adbf35064e083</update_guid>
+        <update_guid_history>85e64c3b89e1e010316adbf35064e083:1463358927,6ad20c77d6e1e010e4ebfe4949673c50:315106562,e7924877c3e1e010e258e7601ca4380b:2103206171,7b224c37cde1e010ebf37aca2ff549d5:1394680978,aec1c837e4e1e01037fed299f7e3de0b:-896679137,3f5cfb2365e1e010bc1d2a2825ec2e36:-1420582846,49782d39c7e92010b8b4d6eefce29557:-163785957</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-13 10:04:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>7c65633bc01a4ee5a2a1f61fc63bd659</sys_id>
+        <sys_metadata>49782d392fe92010b38259a72799b655</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="x_58872_needit_needit">09782d392fe92010b38259a72799b673</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_49782d392fe92010b38259a72799b655</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_49782d392fe92010b38259a72799b655">4de64c3b2fe1e010b38259a72799b683</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-13 10:04:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
