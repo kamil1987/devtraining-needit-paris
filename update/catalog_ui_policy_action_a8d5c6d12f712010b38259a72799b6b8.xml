@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="test demo need access card">a2ceef942f716410b38259a72799b655</catalog_item>
+        <catalog_variable>IO:2d66f9592f312010b38259a72799b67e</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-18 10:08:34</sys_created_on>
+        <sys_id>a8d5c6d12f712010b38259a72799b6b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>employee_details</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_a8d5c6d12f712010b38259a72799b6b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-18 10:08:34</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Employee Detail field mandatory">63087d992f312010b38259a72799b69f</ui_policy>
+        <variable>employee_details</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>
